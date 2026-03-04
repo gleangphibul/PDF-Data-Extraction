@@ -1,2 +1,1 @@
-Using web scraping libraries, I wrote Python code to extract numeric, tabular, and text data from PDFs and utilize Pandas and NumPy to
-transform the data into a format feasible for data analysis in statistical software such as STATA and R.
+Using web scraping libraries, I wrote Python code to extract numeric, tabular, and text data from PDFs and utilize Pandas and NumPy to transform the data into a format feasible for data analysis in statistical software such as STATA and R.
